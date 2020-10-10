@@ -1,4 +1,4 @@
-# Logistic-Regression
+# Logistic-Regression-Binary-Classification
 Example of Supervised Machine Learning (Classification) using Logistic Regression in Python
 
 For more details please visit:\
